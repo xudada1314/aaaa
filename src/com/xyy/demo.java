@@ -8,4 +8,7 @@ public class demo {
 
         return "bb";
     }
+    public Integer cc(){
+        return 11;
+    }
 }
