@@ -10,5 +10,8 @@ public class aa {
         demo demo = new demo();
         Integer aa = demo.aa();
         System.out.println(aa);
+        Car car = new Car();
+        car.setName("张三");
+        System.out.println(car.getName());
     }
 }
